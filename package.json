@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fsevents": "^1.2.7",
     "jest": "^23.6.0"
   }
 }
