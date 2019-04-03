@@ -1,6 +1,6 @@
 const removeOddSum = require('./main.js');
 
-test('', () => {
+test('.removeOddSum returns an array of objects with even sum', () => {
   const result = removeOddSum([ {a: 5, b: 5},
                                 {a: 3, b: 4},
                                 {a: 2, b: 0},
